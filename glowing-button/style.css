@@ -33,13 +33,6 @@
 
 }
 
-/*#box:hover{
-    
-}*/
-
-
-
-
 box{
     height: 20px;
     width: 25px;
@@ -68,4 +61,5 @@ box{
     height: 20px;
     width: 25px;
     border: 1px transparent black;
+
 }
