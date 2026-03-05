@@ -7,7 +7,9 @@ The **Glowing Button** is a modern front-end project built using semantic HTML a
 The goal of this project was to create a visually engaging button using clean structure and CSS hover effects, demonstrating foundational UI styling skills and attention to interactive design.
 
 ---
+## Screenshot
 
+![Glowing Button Preview](screenshot.png)
 ---
 
 ## Key Features
