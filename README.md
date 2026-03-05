@@ -54,7 +54,7 @@ glowing-button-ui/
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/your-username/glowing-button-ui.git
+   git clone https://github.com/Faiza-Umar/glowing-button
    ```
 
 2. Open the project folder.
